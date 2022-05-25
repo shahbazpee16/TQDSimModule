@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Fast and Secure Routing Algorithms for Quantum Key
+  Distribution Networks
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Vishnu Beji
+    email: vishnubeji@gmail.com
+    affiliation: Oracle
+  - given-names: Abhishek Sinha
+    affiliation: Tata Institute of Fundamental Research (TIFR)
+    email: abhishek.sinha@tifr.res.in
